@@ -1,0 +1,103 @@
+
+{
+  "personal": {
+    "location": "Palakkad, Kerala, India",
+    "preferred_locations": [
+      "Palakkad",
+      "Thrissur",
+      "Kochi",
+      "Thiruvananthapuram",
+      "Kozhikode",
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Mumbai",
+      "Pune",
+      "Coimbatore",
+      "Mysuru",
+      "Mangalore",
+      "Delhi NCR",
+      "Gurugram",
+      "Noida",
+      "Remote India",
+      "Global Remote"
+    ],
+    "career_level": "Fresher",
+    "degree": "BTech Computer Science Engineering",
+    "college": "Nehru College of Engineering and Research Centre"
+  },
+  "skills": {
+    "programming_languages": [
+      "Python"
+    ],
+    "web_technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "areas_of_interest": [
+      "Generative AI",
+      "AI Agents",
+      "Python Development",
+      "Backend Python Development",
+      "Full Stack Development",
+      "AI Engineering",
+      "Machine Learning",
+      "Web Development"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Genzee Technologies LLP",
+      "type": "Python Internship",
+      "duration": "7 days",
+      "description": "Developed a Hostel Management System with Student, Parent, and Admin modules."
+    },
+    {
+      "company": "Corizo",
+      "type": "AI Internship and Web Development Training"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI Fitness App",
+      "technologies": [
+        "Python",
+        "OpenCV",
+        "MediaPipe"
+      ],
+      "description": "AI-based fitness application using computer vision."
+    },
+    {
+      "name": "Hostel Management System",
+      "description": "Hostel management application with Student, Parent, and Admin modules."
+    }
+  ],
+  "certifications_and_learning": [
+    "Google × Kaggle 5-Day AI Agents Intensive participation",
+    "AI Agents course in progress"
+  ],
+  "job_preferences": {
+    "roles": [
+      "Python Developer",
+      "Junior Python Developer",
+      "Backend Python Developer",
+      "Full Stack Developer",
+      "Junior Full Stack Developer",
+      "AI Developer",
+      "AI Engineer",
+      "Generative AI Developer",
+      "Machine Learning Intern",
+      "Python Developer Intern",
+      "Backend Developer Intern",
+      "Software Developer",
+      "Software Development Intern"
+    ],
+    "experience_level": [
+      "Fresher",
+      "Entry-level",
+      "Graduate",
+      "Internship"
+    ]
+  }
+}

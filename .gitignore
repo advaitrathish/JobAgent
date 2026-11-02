@@ -1,0 +1,24 @@
+
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.py[cod]
+logs/
+
+# Personal and generated data
+data/applications.json
+data/agent_memory.json
+data/job_search_progress.json
+
+# Local development
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Personal resumes
+resumes/
